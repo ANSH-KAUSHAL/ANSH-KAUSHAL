@@ -34,19 +34,18 @@
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
+-->
 ---
 
 <!-- CONNECT -->
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@yourchannel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anshkaushal)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@kaushalansh777)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me)](https://yourportfolio.com)
 
 ---

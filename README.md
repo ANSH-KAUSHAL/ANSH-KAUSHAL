@@ -1,5 +1,5 @@
-## Hello, I am Ansh Kaushal"
-### About Me
+# Hello, I am Ansh Kaushal"
+## About Me
 
 
 <!--

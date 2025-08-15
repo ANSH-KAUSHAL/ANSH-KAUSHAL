@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer | Tech Enthusiast</h3>
 
 <!-- ABOUT ME -->
-## 💡 About Me
+## About Me
 - 🎓 Chasing my degree in **B.E. CSE** at **Chitkara University**
 - 💻 Keen on **Full Stack Development** & **Problem Solving**
 - ⚡ Competed in **HTM 5.0** at Marwadi University, Gujarat

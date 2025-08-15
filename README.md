@@ -1,14 +1,13 @@
 <!-- HEADER -->
-<h1 align="center">Hey there 👋, I'm Money</h1>
-<h3 align="center">Software Engineering Student | Video Editor | Tech Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm Ansh Kaushal</h1>
+<h3 align="center">Web Developer | Tech Enthusiast</h3>
 
 <!-- ABOUT ME -->
 ## 💡 About Me
-- 🎓 Currently pursuing **B.E. CSE** at **Chitkara University**
-- 💻 Passionate about **Full Stack Development** & **Problem Solving**
-- 🎥 Side hustle: **Video Editing** (Reels, Shorts, YT videos)
-- 🚀 Aspiring to **crack a solid placement in tech**
-- ⚡ Fun fact: *I once performed Bhangra in front of 500+ people*
+- 🎓 Chasing my degree in **B.E. CSE** at **Chitkara University**
+- 💻 Keen on **Full Stack Development** & **Problem Solving**
+- ⚡ Competed in **HTM 5.0** at Marwadi University, Gujarat
+- 🎥 Also Freelancing in **Video Editing** (Reels, Shorts, YT videos)
 
 ---
 
